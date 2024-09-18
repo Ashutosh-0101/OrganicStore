@@ -1,0 +1,77 @@
+.productDetails{
+    display: flex;
+   justify-content:center;
+    width: 100%;
+    flex-wrap: wrap;
+     height: 70vh;
+   padding-top: 4.25rem;
+}
+.details{
+  display: flex;
+  flex-wrap: wrap;
+  
+   justify-content:center;
+  width: 70%;
+}
+
+.leftImg{
+    display: flex;
+    justify-content:center ;
+    width: 50%;
+    object-fit: fit;
+}
+.leftImg img{
+    object-fit: fill;
+    height: 37.75rem;
+    width: 36.75rem;
+    
+}
+.price{
+    font-size: 2rem;
+    margin: 0.625rem 0;
+}
+.ATC{
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    margin: 0.625rem 0;
+}
+.descrip{
+    margin: 1.625rem 0;
+    font-size: 1rem;
+    color:gray;
+}
+.aTCInput{
+    height: 2.25rem;
+    width: 3rem;
+}
+.addTCBtn{
+
+    height:2.65rem;
+    border:none;
+    width: 20.25rem;
+    background-color: #8bc24b;
+    color: white;
+    font-size: 1.875rem;
+}
+
+.rigthDetails{
+    width: 50%;
+}
+@media (max-width: 798px) {
+    .details {
+      flex-direction: column; /* Stacks the left and right divs vertically on smaller screens */
+      height: auto; /* Adjusts height automatically */
+    }
+  
+    .leftImg,
+    .rigthDetails {
+      align-items: center; /* Centers the content horizontally on smaller screens */
+      text-align: center;
+      width: 100%; /* Centers text on smaller screens */
+    }
+  
+    .rigthDetails {
+      align-items: center; /* Align content center horizontally */
+    }
+  }

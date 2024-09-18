@@ -1,0 +1,162 @@
+[
+   {
+      "products":[
+         {
+            "id":1,
+            "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted-300x300.jpg",
+            "productName":"Coffee-Asorted",
+            "price":35.00,
+            "raiting":"5",
+            "category":"Groceries",
+            "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame."
+         },
+         {
+             "id":2,
+             "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/edible-oil-300x300.jpg",
+             "productName":"Natural Extracted Edible Oil",
+             "price":25.00,
+             "raiting":"5",
+             "category":"Groceries",
+             "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame."
+          },
+          {
+             "id":3,
+             "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/red-chillies-300x300.jpg",
+             "productName":"Handpicked Red Chillies",
+             "price":30.00,
+             "raiting":"5",
+             "category":"Groceries",
+             "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame."
+          },
+          {
+             "id":4,
+             "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/sanitizer-300x300.jpg",
+             "productName":"Hand Sanitizer",
+             "price":15.00,
+             "raiting":"5",
+             "category":"Groceries",
+             "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame."
+          },
+          {
+             "id":5,
+             "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/orage-juice-kariz-300x300.jpg",
+             "productName":"Fresh Orange Juice",
+             "price":10.00,
+             "raiting":"5",
+             "category":"Groceries",
+             "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame."
+          },
+          {
+             "id":6,
+             "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/eggs-300x300.jpg",
+             "productName":"Farm Fresh Egg",
+                         "price":95.00,
+             "raiting":"5",
+             "category":"Juice",
+             "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame."
+          },
+          {
+             "id":7,
+             "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/diabetic-cookies-300x300.jpg",
+             "productName":"Diabetic Cookies",
+             "price":55.00,
+             "raiting":"5",
+             "category":"Juice",
+             "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame."
+          },
+          {
+             "id":8,
+             "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/cashew-butter-500-300x300.jpg",
+             "productName":"Cashew Butter",
+             "price":35.00,
+             "raiting":"5",
+             "category":"Juice",
+             "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame."
+          },
+          {
+             "id":9,
+             "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted-300x300.jpg",
+             "productName":"Coffee-Asorted",
+             "price":50.00,
+             "raiting":"5",
+             "category":"Juice",
+             "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame."
+          },
+          {
+             "id":10,
+             "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/face-wash-300x300.jpg",
+             "productName":"Organic Face Scrub",
+             "price":76.00,
+             "raiting":"5",
+             "category":"Juice",
+             "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame."
+          },
+          {
+             "id":11,
+             "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/pulses-300x300.jpg",
+             "productName":"Pulses From Organic Farm",
+             "price":53.00,
+             "raiting":"5",
+             "category":"Juice",
+             "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame."
+          },
+          {
+             "id":12,
+             "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/wheat-300x300.jpg",
+             "productName":"Wheat From Organic Farms",
+             "price":73.00,
+             "raiting":"5",
+             "category":"Juice",
+             "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame."
+          }
+     
+     ],
+     "main":
+      {
+         "banner":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2021/03/organic-products-hero.png",
+         "logo":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/organic-store-logo5.svg",
+         "leaf":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2021/03/basil-leaf.png",
+         "bLeaf":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/07/logo-leaf-new.png",
+         "explore":[{
+            "title":"Farm Fresh Fruits",
+            "description":"Ut sollicitudin quam vel purus tempus, vel eleifend felis varius.",
+            "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/product11-free-img.jpg"
+         },
+         {
+            "title":"Farm Fresh Fruits",
+            "description":"Ut sollicitudin quam vel purus tempus, vel eleifend felis varius.",
+            "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/product11-free-img.jpg"
+         },
+         {
+            "title":"Farm Fresh Fruits",
+            "description":"Ut sollicitudin quam vel purus tempus, vel eleifend felis varius.",
+            "img":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/product11-free-img.jpg"
+         }],
+         "review":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/sydney-rae-668606-unsplash.jpg",
+         "feature":[
+            {
+               "Bimg":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2021/03/logo-4.svg"
+            },
+            {
+               "Bimg":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2021/03/logo-4.svg"
+            },
+            {
+               "Bimg":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2021/03/logo-4.svg"
+            },
+            {
+               "Bimg":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2021/03/logo-4.svg"
+            },
+            {
+               "Bimg":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2021/03/logo-4.svg"
+            }
+         ]
+
+      },
+     "footer":
+      {   "logo":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/07/organic-store-white-logo.png",
+         "google":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/play-store.png",
+         "app":"https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/app-store.png"
+      }
+     
+   }
+]

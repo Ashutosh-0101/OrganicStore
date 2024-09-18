@@ -1,0 +1,62 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 6rem;
+    background-color: rgb(255, 255, 255);
+}
+#left{
+    display: flex;
+    align-items: center;
+}
+
+#left li{
+    list-style: none;
+   
+  
+}
+.linkColor {
+    text-decoration: none; /* Removes the underline */
+    color: inherit; /* Inherits the color from the parent element or set to a specific color */
+  }
+  
+  .linkColor:hover {
+    color: #8bc24a; /* Optional: Changes the color on hover */
+  }
+  .linkColor:active{
+    color: #8bc24a;
+  }
+  .linkColor:focus {
+    color: #8bc24a; /* Also sets the color to green when the link is focused */
+  }
+#right{
+    align-items: center;
+    display:flex;
+    font-size: 1rem;
+    margin-right: 2.25rem;
+}
+ul{
+    display: flex;
+    gap: 3rem;
+}
+ #right li{
+    list-style: none;
+    
+
+ }
+ .outterDiv{
+    position: relative;
+ }
+ .noItem{
+    display: flex;
+    font-size: small;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:-10px;;
+    right: -20px;
+    background-color: #8bc24a;
+    width: 1.3125rem;
+    height: 1.3125rem;
+    border-radius: 50%;
+ }

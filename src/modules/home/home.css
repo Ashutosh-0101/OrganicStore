@@ -1,0 +1,89 @@
+.mainDiv{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(250, 249, 247);
+    height: 80vh;
+    align-items: center;
+    gap: 20px;
+    min-height: max-content;
+    
+}
+.left{
+   text-align: right;
+   width: 50%;
+   display: flex; 
+   flex: 1;
+   flex-direction: column; 
+   justify-content: center; 
+}
+.right{
+
+    align-items: center;
+    display: flex; 
+    flex: 1;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: flex-start;
+}
+.banner{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 1.875rem;
+    min-height: max-content;
+    padding-top: 3.125rem;
+    padding-bottom: 3.125rem;
+}
+.bannerContainer{
+
+    display: flex;
+    flex-direction: column;
+   color: white;
+    align-items: center;
+    justify-content: center;
+    height: 7.25rem;
+    width: 15.625rem;
+    background-color: rgb(48, 48, 48);
+}
+.leaf{
+    margin: 0.625rem 0;
+}
+.tag {
+    margin: 0.625rem 0 ;
+    font-size: 2.875rem;
+}
+.tag2{
+    margin: 0.625rem 0 ;
+    font-size: 1.875rem;
+}
+.dess{
+    color: gray;
+    margin: 1rem 0;
+}
+.buttonMain{
+    height: 3.25rem;
+    width: 10.25rem;
+    background-color: rgb(106, 151, 58);
+    border-radius: 0.3125rem;
+    color: white;
+    font-weight: bold;
+}
+@media (max-width: 768px) {
+    .mainDiv {
+      flex-direction: column-reverse; /* Stacks the left and right divs vertically on smaller screens */
+      height: auto; /* Adjusts height automatically */
+    }
+  
+    .left,
+    .right {
+      align-items: center; /* Centers the content horizontally on smaller screens */
+      text-align: center; /* Centers text on smaller screens */
+    }
+  
+    .right {
+      align-items: center; /* Align content center horizontally */
+    }
+  }

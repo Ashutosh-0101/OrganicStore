@@ -1,0 +1,36 @@
+.mainBest{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: max-content;
+    padding:  5.125rem 0; 
+}
+.Best{
+    font-size: 2.5rem;
+}
+.bLeaf{
+    margin: 0.625rem 0 1rem 0;
+}
+.allProduct{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.25rem;
+    justify-content: center;
+    align-items: center;
+}
+.bSProducts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.gro{
+    color: gray;
+}
+.pName{
+    font-weight: bold;
+    font-size: 1.125rem;
+
+}
