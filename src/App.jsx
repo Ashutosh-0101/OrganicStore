@@ -13,6 +13,8 @@ const Products = lazy(() => import("./modules/products/Products"));
 const Details = lazy(() => import("./modules/detail/Details"));
 
 function App() {
+  console.log("wertyuioxhjcvbnm");
+  
   return (
     <>
       <Provider store={store}>
